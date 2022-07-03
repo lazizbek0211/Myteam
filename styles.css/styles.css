@@ -337,7 +337,7 @@ __item:not(:last-child) {
 .quote-icon{
     position: absolute;
     right: calc(50% + 345px);
-    top: 1679px;
+    top: 1700px;
     z-index: 5;
 }
 .middle{
