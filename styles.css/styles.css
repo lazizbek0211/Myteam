@@ -500,8 +500,11 @@ __item:not(:last-child) {
 .rights {
     opacity: 0.6;
 }
+.socials__link{
+    color: var(--white-text);
+}
 .socials__link:hover{
-    background-color:var(--red-text);
+    color: var(--red-text);
 }
 
 
